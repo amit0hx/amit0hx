@@ -32,11 +32,6 @@ Windows and the web.
 - [textEncrypt](https://github.com/amit0hx/textEncrypt) - a lightweight text encryption
   tool written in Python.
 
-### GitHub stats
-
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit0hx&show_icons=true&hide_border=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit0hx&layout=compact&hide_border=true&theme=default)
-
 ### Connect
 
 - GitHub: [@amit0hx](https://github.com/amit0hx)
