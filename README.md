@@ -40,4 +40,6 @@ Windows and the web.
 ### Connect
 
 - GitHub: [@amit0hx](https://github.com/amit0hx)
+- LinkedIn: [in/amit0hx](https://www.linkedin.com/in/amit0hx)
 - X (Twitter): [@amit0hx](https://twitter.com/amit0hx)
+- Website: [amit0hx.tech](https://amit0hx.tech)
