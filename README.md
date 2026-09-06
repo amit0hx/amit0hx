@@ -1,4 +1,4 @@
-## Amit Kushwaha
+## AMIT KUSHWAHA
 
 BCA student and security researcher focused on web, API and cloud security. I hunt for
 bugs, study how systems break, and build practical security and productivity tools for
